@@ -1,0 +1,73 @@
+.container{
+    background-color: rgb(201, 239, 253);
+    width: 21%;
+    font-family: 'GT Eesti Display',-apple-system,system-ui,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,
+    'Helvetica Neue',sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';
+    letter-spacing: .01rem;
+    border-radius: 1rem;
+    line-height: 1.35;
+    margin-left: 30rem;
+   
+}
+#h4{
+    background-color:  #2d7ff9;
+    color: white;
+    padding-left: 1rem;
+    padding-top: 0.01em;
+    padding-bottom: 0.9rem;
+    height: 3rem;
+    border-radius: 1rem;
+    margin-bottom: 3rem;
+    font-size: 500;
+    font-weight: bold;
+
+}
+#h3{
+    padding-left: 1rem;
+    font-size: 1.2rem;
+    font-weight: 500;
+
+}
+#paragraph{
+    font-size: 1.2rem;
+    padding-left: 1rem ;
+    font-weight: 500;
+    padding-bottom: 3.5rem;
+    
+}
+#price{
+    font-size: 4rem;
+    font-weight: 600;
+    padding-left: 1rem;
+}
+#p2{
+    font-weight: 500;
+    float: right;
+    padding-top: 1.5rem;
+    padding-right: 1rem;
+}
+#p3{
+    font-weight: 500;
+    padding-left: 1rem;
+}
+#plus{
+    font-weight: 500;
+    padding-left: 1rem;
+}
+#list{
+    font-weight: 500;
+    padding-right: 1rem;
+    padding-bottom: 5rem;
+}
+#button{
+    height: 3rem;
+    border-radius: 5rem;
+    color: white;
+    width: 14.5rem;
+    margin-left: 1rem;
+    font-size: medium;
+    font-weight: bold;
+    margin-top: 2rem;
+    background: #2d7ff9;
+    border: none;
+}
